@@ -32,8 +32,8 @@ console.log(nilai);
 ```js
 // Contoh hard code menurut saya
 var data = {
-      nama : "Alif",
-      umur : 20,
+      nama : "Abigail",
+      umur : 19,
       kerja : false,
 }; // variabel didalam data tidak bisa diubah 
 console.log(`Nama saya ${data.nama} umur saya ${data.umur} saya sedang `+data.kerja ? "Bekerja" : "Tidak bekerja");
@@ -47,7 +47,7 @@ console.log(variable); // program tidak akan berjalan karena nama variabel yang 
 ```py
 # Contoh interpreter
 variabel = "Nilai"
-nama = "Alif"
+nama = "Abigail"
 print(variabel)
 print(name) # Program akan berhenti berjalan pada baris ini karena nama variabel tidak sama dengan yang dideklarasi
 ```
